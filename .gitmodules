@@ -1,0 +1,8 @@
+[submodule "ownphotos-frontend"]
+	path = ownphotos-frontend
+	url = https://github.com/newrey/ownphotos-frontend.git
+	branch = dev
+[submodule "ownphotos"]
+	path = ownphotos
+	url = https://github.com/newrey/ownphotos.git
+	branch = dev
